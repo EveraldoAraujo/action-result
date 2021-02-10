@@ -1,0 +1,7 @@
+{
+  "name": "@ts-toolbox/action-result",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "author": "Everaldo Araujo <developer.everaldoaraujo@gmail.com>"
+}
